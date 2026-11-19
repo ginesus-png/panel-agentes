@@ -1,0 +1,6 @@
+{
+  "name": "panel-agentes",
+  "version": "0.1.0",
+  "description": "Panel junto al chat que muestra en vivo qué hace cada subagente: tipo, tarea, estado, herramientas y duración.",
+  "types": "./types/index.d.ts"
+}

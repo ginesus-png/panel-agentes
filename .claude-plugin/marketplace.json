@@ -1,0 +1,5 @@
+{
+  "name": "panel-agentes",
+  "owner": { "name": "ginesus-png" },
+  "plugins": [{ "name": "panel-agentes", "source": "./" }]
+}
